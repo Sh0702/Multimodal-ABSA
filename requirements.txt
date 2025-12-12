@@ -1,0 +1,12 @@
+openai-whisper
+ffmpeg-python
+opencv-python
+pandas
+numpy
+moviepy
+torch
+transformers
+jupyter
+notebook
+scikit-learn
+matplotlib

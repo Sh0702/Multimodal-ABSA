@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/processed/
+data/*.csv
+notebooks/.ipynb_checkpoints/
+.env
+*.log
+*.wav
+*.mp4
+*.avi
+*.mov
+*.srt
+*.json
